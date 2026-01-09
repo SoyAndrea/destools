@@ -1,0 +1,19 @@
+# R específicos
+.Rhistory
+.RData
+.Rproj.user/
+
+# Específicos de paquetes
+/*.tar.gz
+/*.Rcheck/
+
+# renv (MUY IMPORTANTE)
+# Ignoramos la librería (pesada), pero NO los scripts de activación
+renv/library/
+renv/python/
+renv/staging/
+renv/local/
+.Rproj.user
+.httr-oauth
+.DS_Store
+.quarto

@@ -1,0 +1,14 @@
+Package: destools
+Title: Herramientas de la Dirección de Estadísticas Sectoriales
+Version: 0.0.0.9000
+Authors@R: c(
+    person("Andrea", "Gomez Vargas", "andrea.gomezv11@gmail.com", role = c("aut", "cre")),
+    person("Leandro", "Olivo", , "leandro.olivo92@gmail.com", role = "aut"),
+    person("Bárbara", "Estévez Leston", "bar.estevez@gmail.com", role = "aut"),
+    person("Gonzalo", "Fiordelisi", "gonzalofiordelisi@gmail.com", role = "aut")
+  )
+Description: Este paquete centraliza las funciones de procesamiento, limpieza y visualización de datos de la DES.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
