@@ -1,19 +1,25 @@
-# R específicos
+# --- R específicos ---
 .Rhistory
 .RData
+.Ruserdata
 .Rproj.user/
 
-# Específicos de paquetes
+# --- Paquetes y Checks ---
 /*.tar.gz
 /*.Rcheck/
+.temp/
+doc/
 
-# renv (MUY IMPORTANTE)
-# Ignoramos la librería (pesada), pero NO los scripts de activación
+# --- renv (Configuración Pro) ---
+# Ignoramos las librerías instaladas (son pesadas y dependen de cada PC)
 renv/library/
 renv/python/
 renv/staging/
 renv/local/
-.Rproj.user
-.httr-oauth
+
+# NO ignores renv/activate.R ni renv/settings.json (Git debe verlos)
+
+# --- Otros ---
 .DS_Store
-.quarto
+.httr-oauth
+.quarto/
