@@ -1,9 +1,9 @@
 Package: destools
-Title: Herramientas de la Dirección de Estadísticas Sectoriales
+Title: Toolbox de la DES: Procesamiento y Análisis de Datos
 Version: 0.0.0.9000
 Authors@R: c(
     person("Andrea", "Gomez Vargas", "andrea.gomezv11@gmail.com", role = c("aut", "cre")),
-    person("Leandro", "Olivo", , "leandro.olivo92@gmail.com", role = "aut"),
+    person("Leandro", "Olivo", "leandro.olivo92@gmail.com", role = "aut"),
     person("Bárbara", "Estévez Leston", "bar.estevez@gmail.com", role = "aut"),
     person("Gonzalo", "Fiordelisi", "gonzalofiordelisi@gmail.com", role = "aut")
   )
