@@ -1,0 +1,14 @@
+bibentry(
+  bibtype = "Manual",
+  title = "{destools}: Toolbox de la DES: Procesamiento y Analisis de Datos",
+  author = c(
+    person(given = "Andrea", family = "Gomez Vargas", role = c("aut", "cre"), email = "andrea.gomezv11@gmail.com"),
+    person(given = "Leandro", family = "Olivo", role = "aut", email = "leandro.olivo92@gmail.com"),
+    person(given = "Barbara", family = "Estevez Leston", role = "aut", email = "bar.estevez@gmail.com"),
+    person(given = "Gonzalo", family = "Fiordelisi", role = "aut", email = "gonzalofiordelisi@gmail.com")
+  ),
+  year = "2026",
+  version = "0.0.0.9000",
+  note = "R package version 0.0.0.9000",
+  url = "https://github.com/SoyAndrea/destools"
+)

@@ -37,3 +37,12 @@ devtools::install_github("SoyAndrea/destools")
 ``` r
 library(destools)
 ```
+
+## Funciones 
+
+
+ - `convert_to_qs2()`:Pasa un dataframe, .csv o .qs a .qs2
+ 
+ - `convert_dir_to_qs2()`: Convierte toda una carpeta de archivos csv o qs a .qs2
+ 
+ - `calc_brecha()`: Calcula brechas de indicadores
